@@ -1,2 +1,2 @@
 # turn-leaf
-WEHack submission with a group of 4 hackers, creating the Figma wireframe for the State Farm challenge.
+WEHack inspired project by 4 UTD student hackers.
